@@ -8,11 +8,11 @@
   "routes": [
     {
       "src": "/api/(.*)",
-      "dest": "index.js"
+      "dest": "/index.js"
     },
     {
       "src": "/auth/(.*)",
-      "dest": "index.js"
+      "dest": "/index.js"
     }
   ]
 }
