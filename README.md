@@ -92,10 +92,6 @@ NOTAS:
 - Los tokens JWT expiran a las 1 hora de generados.
 - La arquitectura está separada en rutas, controladores, servicios, modelos y middlewares para facilitar escalabilidad y mantenimiento.
 
-CONTACTO:
-
-Para consultas o sugerencias, contactame en: tu-email@ejemplo.com
-
 ¡Gracias por usar esta API!
 
 Autor: Aruquipa Ezequiel
